@@ -1,0 +1,49 @@
+sceneSetups:
+- path: Assets/Levels/CutScene 1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/CutScene 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/CutScene 3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Start.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Main Menu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Level 1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Level 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Level 3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Levels/Level 4.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Final Screen.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/CutScene 4.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/CutScene 5.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
