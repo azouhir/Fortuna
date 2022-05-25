@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/CutScene 1.unity
+    guid: 316c9ff71e2d12d4fb9084b2acd9f0ca
+  - enabled: 1
+    path: Assets/Levels/CutScene 2.unity
+    guid: 2ab9a80e2a84c054bbbea92eea8d9d12
+  - enabled: 1
+    path: Assets/Levels/CutScene 3.unity
+    guid: 5c3d5ad6080d9144186c5c4a9a45bcda
+  - enabled: 1
+    path: Assets/Levels/Start.unity
+    guid: 6643783445d01f645910390afddd67a0
+  - enabled: 1
+    path: Assets/Levels/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Levels/Level 1.unity
+    guid: 90c7108316eb4e44a8badcc97d3d95f3
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: 739a3c57dc554944e9cd66cdd84eb730
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: 195215163fd8fae45b54272f69e204bc
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: 8d64434bfef12a44c89941f1fbf889df
+  - enabled: 1
+    path: Assets/Levels/Final Screen.unity
+    guid: 1873d4aee171c214f8e12cc9bf716186
+  - enabled: 1
+    path: Assets/Levels/CutScene 4.unity
+    guid: 70e72d40f689c784da4e44c3a356a5d8
+  - enabled: 1
+    path: Assets/Levels/CutScene 5.unity
+    guid: 4fcf203dd2ddebd488e7406e7078e98c
+  m_configObjects: {}

@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - enemy
+  - bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Foreground
+  - Player
+  - ground
+  - enemy
+  - Bullet
+  - Hazards
+  - Interactables
+  - Boss
+  - PowerUp
+  - Decorations
+  - Platform
+  - EnragedBoss
+  - BossBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 964109287
+    locked: 0
+  - name: Decorations
+    uniqueID: 2465540713
+    locked: 0
+  - name: Enemy
+    uniqueID: 125251889
+    locked: 0
+  - name: Boss
+    uniqueID: 3032277211
+    locked: 0
+  - name: EnragedBoss
+    uniqueID: 1666193837
+    locked: 0
+  - name: Bullet
+    uniqueID: 4111579251
+    locked: 0
+  - name: BossBullet
+    uniqueID: 1944262953
+    locked: 0
+  - name: Player
+    uniqueID: 1876730463
+    locked: 0
+  - name: Foreground
+    uniqueID: 3223845623
+    locked: 0
+  - name: Platform
+    uniqueID: 2704232239
+    locked: 0
+  - name: Hazards
+    uniqueID: 1155433169
+    locked: 0
+  - name: Interactables
+    uniqueID: 1321785815
+    locked: 0
+  - name: PowerUp
+    uniqueID: 4150640857
+    locked: 0
+  - name: SpaceShip
+    uniqueID: 1179172217
+    locked: 0
