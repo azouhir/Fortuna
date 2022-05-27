@@ -1,17 +1,16 @@
 ![image](https://user-images.githubusercontent.com/44699188/170744078-7fabff37-d0de-4980-b5f0-22309501051e.png)
 
-Fortuna is the name of the game as well as the name of the spaceship of our main character, the 
-name Fortuna literally means luck, ironic if we think about the unluck that the main character goes 
-through. The game story focuses on Timo a young astronaut that is sent from earth to explore 
-Samaha, a possibly habitable planet in the near galaxy Proxima Centauri. However, during his 
-journey Timo loses control of his spaceship and finds himself stranded in an unknown planet in the 
-galaxy. Timo is the typical astronaut who feels the need to conclude his mission therefore he needs 
-to find his spaceship to get back on track and reach Samaha. However, the planet he is stuck in is full 
-of aversities and poisonous creatures, Timo must overcome all the obstacles to finally find himself 
-face to face with a biomechanical creature. The plot twist suggests that previous intelligent life form 
-has been on that planet because no animal could possibly build himself mechanical legs. Timo has to 
-fight for his life and for the mission and finally after defeating the monster he can gain access again 
-to his spaceship and reach Samaha as planned.
+Fortuna is the name of the game as well as the name of the spaceship of our main character, the name 
+Fortuna literally means luck, ironic if we think about the unluck that the main character goes through. 
+The game story focuses on Timo a young astronaut that is sent from earth to explore Samaha, a possibly 
+habitable planet in the near galaxy Proxima Centauri. However, during his journey Timo loses control of 
+his spaceship and finds himself stranded in an unknown planet in the galaxy. Timo is the typical astronaut 
+who feels the need to conclude his mission therefore he needs to find his spaceship to get back on track 
+and reach Samaha. However, the planet he is stuck in is full of aversities and poisonous creatures, Timo 
+must overcome all the obstacles to finally find himself face to face with a biomechanical creature. The 
+plot twist suggests that previous intelligent life form has been on that planet because no animal could 
+possibly build himself mechanical legs. Timo has to fight for his life and for the mission and finally 
+after defeating the monster he can gain access again to his spaceship and reach Samaha as planned.
 
 ![image](https://user-images.githubusercontent.com/44699188/170744472-7c74363d-3aa6-4153-808e-f1be42049fdd.png)
 
