@@ -1,5 +1,20 @@
 ![image](https://user-images.githubusercontent.com/44699188/170744078-7fabff37-d0de-4980-b5f0-22309501051e.png)
 
+Fortuna is the name of the game as well as the name of the spaceship of our main character, the 
+name Fortuna literally means luck, ironic if we think about the unluck that the main character goes 
+through. The game story focuses on Timo a young astronaut that is sent from earth to explore 
+Samaha, a possibly habitable planet in the near galaxy Proxima Centauri. However, during his 
+journey Timo loses control of his spaceship and finds himself stranded in an unknown planet in the 
+galaxy. Timo is the typical astronaut who feels the need to conclude his mission therefore he needs 
+to find his spaceship to get back on track and reach Samaha. However, the planet he is stuck in is full 
+of aversities and poisonous creatures, Timo must overcome all the obstacles to finally find himself 
+face to face with a biomechanical creature. The plot twist suggests that previous intelligent life form 
+has been on that planet because no animal could possibly build himself mechanical legs. Timo has to 
+fight for his life and for the mission and finally after defeating the monster he can gain access again 
+to his spaceship and reach Samaha as planned.
+
+![image](https://user-images.githubusercontent.com/44699188/170744472-7c74363d-3aa6-4153-808e-f1be42049fdd.png)
+
 Fortuna is a 2D platformer. The storyline is intriguing and targets a wide variety of gamers, but more specifically it focuses on 
 single player gamers with a keen interest in sci-fi type elements. Although some game mechanics are 
 lacking in development, for example player can get stuck on any object in the foreground as long as 
@@ -25,3 +40,7 @@ these genetically modified animals to serve some kind of purpose. Nevertheless, 
 the monstruous animal to finally get back to the Fortuna. The storyline is ambiguous and leaves a lot 
 of doors open for a reason, gamers are more likely to play a sequel of the game to find out if Timo 
 makes it to “Samaha” and to discover more clues about the planet we have been stranded on.
+
+![image](https://user-images.githubusercontent.com/44699188/170744557-69cc329f-7325-4f8c-856f-30985a91d341.png)
+
+THANK YOU FOR PLAYING THE GAME! Report any feedback to me through linkedin (see link in my bio)
