@@ -1,5 +1,10 @@
 ![image](https://user-images.githubusercontent.com/44699188/170744078-7fabff37-d0de-4980-b5f0-22309501051e.png)
 
+**IMPORTANT**
+When you download "Digital Media & Games - 1835227.rar" extract the elements inside, then navigate to:
+**Digital Media & Games - 1835227_Data**, here you should find a .rar file called **sharedassets8.assets**
+extract it in order to play the game properly.
+
 Fortuna is the name of the game as well as the name of the spaceship of our main character, the name 
 Fortuna literally means luck, ironic if we think about the unluck that the main character goes through. 
 The game story focuses on Timo a young astronaut that is sent from earth to explore Samaha, a possibly 
